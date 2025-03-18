@@ -1,7 +1,7 @@
 # Loadout randomizer for Helldivers II game
 
 ## 1. Installing
-- Run [randomdive_installer.exe](randomdive/randomdive_installer.exe).
+- Run [randomdive_installer.exe](randomdive_installer.exe).
 
 ## 2. Usage
 It has a simple use:
