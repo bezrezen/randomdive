@@ -1,0 +1,569 @@
+[
+    {
+    "warbond":"default",
+    "stratagem_name":"Eagle 500kg Bomb",
+    "stratagem_type":"eagle",
+    "cooldown":"low",
+    "use_situation":"all",
+    "destroys_buildings":"yes",
+    "image":"stratagems\\default_pack\\eagle\\Eagle 500kg Bomb.png"    
+    },
+    {
+    "warbond":"default",
+    "stratagem_name":"Eagle 110mm Rocket Pods",
+    "stratagem_type":"eagle",
+    "cooldown":"low",
+    "use_situation":"anti heavy",
+    "destroys_buildings":"yes",
+    "image":"stratagems\\default_pack\\eagle\\Eagle 110mm Rocket Pods.png"
+    },
+    {
+    "warbond":"default",
+    "stratagem_name":"Eagle Airstrike",
+    "stratagem_type":"eagle",
+    "cooldown":"low",
+    "use_situation":"anti infantry",
+    "destroys_buildings":"yes",
+    "image":"stratagems\\default_pack\\eagle\\Eagle Airstrike.png"
+    },
+    {
+    "warbond":"default",
+    "stratagem_name":"Eagle Cluster Bomb",
+    "stratagem_type":"eagle",
+    "cooldown":"low",
+    "use_situation":"anti infantry",
+    "destroys_buildings":"yes",
+    "image":"stratagems\\default_pack\\eagle\\Eagle Cluster Bomb.png"
+    },
+    {
+    "warbond":"default",
+    "stratagem_name":"Eagle Cluster Bomb",
+    "stratagem_type":"eagle",
+    "cooldown":"low",
+    "use_situation":"anti infantry",
+    "destroys_buildings":"yes",
+    "image":"stratagems\\default_pack\\eagle\\Eagle Cluster Bomb.png"
+    },
+    {
+    "warbond":"default",
+    "stratagem_name":"Eagle Napalm Airstrike",
+    "stratagem_type":"eagle",
+    "cooldown":"low",
+    "use_situation":"anti infantry",
+    "destroys_buildings":"no",
+    "image":"stratagems\\default_pack\\eagle\\Eagle Napalm Airstrike.png"
+    },
+    {
+    "warbond":"default",
+    "stratagem_name":"Eagle Napalm Airstrike",
+    "stratagem_type":"eagle",
+    "cooldown":"low",
+    "use_situation":"anti infantry",
+    "destroys_buildings":"no",
+    "image":"stratagems\\default_pack\\eagle\\Eagle Napalm Airstrike.png"
+    },
+    {
+    "warbond":"default",
+    "stratagem_name":"Eagle Smoke Strike",
+    "stratagem_type":"eagle",
+    "cooldown":"low",
+    "use_situation":"support",
+    "destroys_buildings":"no",
+    "image":"stratagems\\default_pack\\eagle\\Eagle Smoke Strike.png"
+    },
+    {
+    "warbond":"default",
+    "stratagem_name":"Eagle Strafing Run",
+    "stratagem_type":"eagle",
+    "cooldown":"low",
+    "use_situation":"anti infantry",
+    "destroys_buildings":"no",
+    "image":"stratagems\\default_pack\\eagle\\Eagle Strafing Run.png"
+    },
+    {
+    "warbond":"ul",
+    "stratagem_name":"A FLAM-40 Flame Sentry",
+    "stratagem_type":"emplacement",
+    "cooldown":"medium",
+    "use_situation":"anti infantry",
+    "destroys_buildings":"no",
+    "image":"stratagems\\ul\\emplacements\\A FLAM-40 Flame Sentry.png"
+    },
+    {
+    "warbond":"ul",
+    "stratagem_name":"E AT-12 Anti-Tank Emplacement",
+    "stratagem_type":"emplacement",
+    "cooldown":"high",
+    "use_situation":"anti heavy",
+    "destroys_buildings":"yes",
+    "image":"stratagems\\ul\\emplacements\\E AT-12 Anti-Tank Emplacement.png"
+    },
+    {
+    "warbond":"default",
+    "stratagem_name":"AM-23 EMS Mortar Sentry",
+    "stratagem_type":"emplacement",
+    "cooldown":"high",
+    "use_situation":"support",
+    "destroys_buildings":"no",
+    "image":"stratagems\\default_pack\\emplacements\\AM-23 EMS Mortar Sentry.png"
+    },
+    {
+    "warbond":"default",
+    "stratagem_name":"Anti-Personnel Minefield",
+    "stratagem_type":"emplacement",
+    "cooldown":"high",
+    "use_situation":"anti infantry",
+    "destroys_buildings":"no",
+    "image":"stratagems\\default_pack\\emplacements\\Anti-Personnel Minefield.png"
+    },
+    {
+    "warbond":"default",
+    "stratagem_name":"Autocannon Sentry",
+    "stratagem_type":"emplacement",
+    "cooldown":"high",
+    "use_situation":"medium",
+    "destroys_buildings":"no",
+    "image":"stratagems\\default_pack\\emplacements\\Autocannon Sentry.png"
+    },
+    {
+    "warbond":"default",
+    "stratagem_name":"Gas Minefield",
+    "stratagem_type":"emplacement",
+    "cooldown":"high",
+    "use_situation":"anti infantry",
+    "destroys_buildings":"no",
+    "image":"stratagems\\default_pack\\emplacements\\Gas Minefield.png"
+    },
+    {
+    "warbond":"default",
+    "stratagem_name":"Gatling Sentry",
+    "stratagem_type":"emplacement",
+    "cooldown":"low",
+    "use_situation":"anti infantry",
+    "destroys_buildings":"no",
+    "image":"emplacements\\Gatling Sentry.png"
+    },
+    {
+    "warbond":"default",
+    "stratagem_name":"HMG Emplacement",
+    "stratagem_type":"emplacement",
+    "cooldown":"medium",
+    "use_situation":"anti heavy",
+    "destroys_buildings":"no",
+    "image":"stratagems\\default_pack\\emplacements\\HMG Emplacement.png"
+    },
+    {
+    "warbond":"default",
+    "stratagem_name":"Machine Gun Sentry",
+    "stratagem_type":"emplacement",
+    "cooldown":"low",
+    "use_situation":"anti infantry",
+    "destroys_buildings":"no",
+    "image":"stratagems\\default_pack\\emplacements\\Machine Gun Sentry.png"
+    },
+    {
+    "warbond":"default",
+    "stratagem_name":"MD-17 Anti-Tank Mines",
+    "stratagem_type":"emplacement",
+    "cooldown":"medium",
+    "use_situation":"anti heavy",
+    "destroys_buildings":"no",
+    "image":"stratagems\\default_pack\\emplacements\\MD-17 Anti-Tank Mines.png"
+    },
+    {
+    "warbond":"default",
+    "stratagem_name":"Mortar Sentry",
+    "stratagem_type":"emplacement",
+    "cooldown":"medium",
+    "use_situation":"anti infantry",
+    "destroys_buildings":"no",
+    "image":"stratagems\\default_pack\\emplacements\\Mortar Sentry.png"
+    },
+    {
+    "warbond":"default",
+    "stratagem_name":"Rocket Sentry",
+    "stratagem_type":"emplacement",
+    "cooldown":"medium",
+    "use_situation":"anti heavy",
+    "destroys_buildings":"no",
+    "image":"stratagems\\default_pack\\emplacements\\Rocket Sentry.png"
+    },
+    {
+    "warbond":"default",
+    "stratagem_name":"Shield Generator Relay",
+    "stratagem_type":"emplacement",
+    "cooldown":"medium",
+    "use_situation":"support",
+    "destroys_buildings":"no",
+    "image":"stratagems\\default_pack\\emplacements\\Shield Generator Relay.png"
+    },
+    {
+    "warbond":"default",
+    "stratagem_name":"EXO-45 Patriot Exosuit",
+    "stratagem_type":"mech",
+    "cooldown":"high",
+    "use_situation":"all",
+    "destroys_buildings":"yes",
+    "image":"stratagems\\default_pack\\mechs\\EXO-45 Patriot Exosuit.png"
+    },
+    {
+    "warbond":"default",
+    "stratagem_name":"EXO-49 Emancipator Exosuit",
+    "stratagem_type":"mech",
+    "cooldown":"high",
+    "use_situation":"all",
+    "destroys_buildings":"yes",
+    "image":"stratagems\\default_pack\\mechs\\EXO-49 Emancipator Exosuit.png"
+    },
+    {
+    "warbond":"default",
+    "stratagem_name":"M-102 Fast Recon Vehicle",
+    "stratagem_type":"mech",
+    "cooldown":"high",
+    "use_situation":"support",
+    "destroys_buildings":"no",
+    "image":"stratagems\\default_pack\\mechs\\M-102 Fast Recon Vehicle.png"
+    },
+    {
+    "warbond":"default",
+    "stratagem_name":"Orbital 120mm HE Barrage",
+    "stratagem_type":"orbital",
+    "cooldown":"high",
+    "use_situation":"all",
+    "destroys_buildings":"yes",
+    "image":"stratagems\\default_pack\\orbital\\Orbital 120mm HE Barrage.png"
+    },
+    {
+    "warbond":"default",
+    "stratagem_name":"Orbital 380mm HE Barrage",
+    "stratagem_type":"orbital",
+    "cooldown":"high",
+    "use_situation":"all",
+    "destroys_buildings":"yes",
+    "image":"stratagems\\default_pack\\orbital\\Orbital 380mm HE Barrage.png"
+    },
+    {
+    "warbond":"default",
+    "stratagem_name":"Orbital Airburst Strike",
+    "stratagem_type":"orbital",
+    "cooldown":"medium",
+    "use_situation":"all",
+    "destroys_buildings":"no",
+    "image":"stratagems\\default_pack\\orbital\\Orbital Airburst Strike.png"
+    },
+    {
+    "warbond":"default",
+    "stratagem_name":"Orbital EMS Strike",
+    "stratagem_type":"orbital",
+    "cooldown":"medium",
+    "use_situation":"support",
+    "destroys_buildings":"no",
+    "image":"stratagems\\default_pack\\orbital\\Orbital EMS Strike.png"
+    },
+    {
+    "warbond":"default",
+    "stratagem_name":"Orbital Gas Strike",
+    "stratagem_type":"orbital",
+    "cooldown":"medium",
+    "use_situation":"anti infantry",
+    "destroys_buildings":"no",
+    "image":"stratagems\\default_pack\\orbital\\Orbital Gas Strike.png"
+    },
+    {
+    "warbond":"default",
+    "stratagem_name":"Orbital Gatling Barrage",
+    "stratagem_type":"orbital",
+    "cooldown":"low",
+    "use_situation":"anti infantry",
+    "destroys_buildings":"no",
+    "image":"stratagems\\default_pack\\orbital\\Orbital Gatling Barrage.png"
+    },
+    {
+    "warbond":"default",
+    "stratagem_name":"Orbital Laser",
+    "stratagem_type":"orbital",
+    "cooldown":"high",
+    "use_situation":"all",
+    "destroys_buildings":"yes",
+    "image":"stratagems\\default_pack\\orbital\\Orbital Laser.png"
+    },
+    {
+    "warbond":"default",
+    "stratagem_name":"Orbital Napalm Barrage",
+    "stratagem_type":"orbital",
+    "cooldown":"high",
+    "use_situation":"anti infantry",
+    "destroys_buildings":"no",
+    "image":"stratagems\\default_pack\\orbital\\Orbital Napalm Barrage.png"
+    },
+    {
+    "warbond":"default",
+    "stratagem_name":"Orbital Precision Strike",
+    "stratagem_type":"orbital",
+    "cooldown":"high",
+    "use_situation":"all",
+    "destroys_buildings":"yes",
+    "image":"stratagems\\default_pack\\orbital\\Orbital Precision Strike.png"
+    },
+    {
+    "warbond":"default",
+    "stratagem_name":"Orbital Railcannon Strike",
+    "stratagem_type":"orbital",
+    "cooldown":"medium",
+    "use_situation":"anti heavy",
+    "destroys_buildings":"no",
+    "image":"stratagems\\default_pack\\orbital\\Orbital Railcannon Strike.png"
+    },
+    {
+    "warbond":"default",
+    "stratagem_name":"Orbital Smoke Strike",
+    "stratagem_type":"orbital",
+    "cooldown":"medium",
+    "use_situation":"support",
+    "destroys_buildings":"no",
+    "image":"stratagems\\default_pack\\orbital\\Orbital Smoke Strike.png"
+    },
+    {
+    "warbond":"default",
+    "stratagem_name":"Orbital Walking Barrage",
+    "stratagem_type":"orbital",
+    "cooldown":"high",
+    "use_situation":"all",
+    "destroys_buildings":"yes",
+    "image":"stratagems\\default_pack\\orbital\\Orbital Walking Barrage.png"
+    },
+    {
+    "warbond":"default",
+    "stratagem_name":"Ballistic Shield Backpack",
+    "stratagem_type":"backpack",
+    "cooldown":"high",
+    "use_situation":"support",
+    "destroys_buildings":"no",
+    "image":"stratagems\\default_pack\\backpacks\\Ballistic Shield Backpack.png"
+    },
+    {
+    "warbond":"default",
+    "stratagem_name":"Guard Dog Rover",
+    "stratagem_type":"backpack",
+    "cooldown":"high",
+    "use_situation":"anti infantry",
+    "destroys_buildings":"no",
+    "image":"stratagems\\default_pack\\backpacks\\Guard Dog Rover.png"
+    },
+    {
+    "warbond":"default",
+    "stratagem_name":"Guard Dog",
+    "stratagem_type":"backpack",
+    "cooldown":"high",
+    "use_situation":"anti infantry",
+    "destroys_buildings":"no",
+    "image":"stratagems\\default_pack\\backpacks\\Guard Dog.png"
+    },
+    {
+    "warbond":"default",
+    "stratagem_name":"Jump Pack",
+    "stratagem_type":"backpack",
+    "cooldown":"high",
+    "use_situation":"support",
+    "destroys_buildings":"no",
+    "image":"stratagems\\default_pack\\backpacks\\Jump Pack.png"
+    },
+    {
+    "warbond":"default",
+    "stratagem_name":"Shield Generator Pack",
+    "stratagem_type":"backpack",
+    "cooldown":"high",
+    "use_situation":"support",
+    "destroys_buildings":"no",
+    "image":"stratagems\\default_pack\\backpacks\\Shield Generator Pack.png"
+    },
+    {
+    "warbond":"ca",
+    "stratagem_name":"Guard Dog Dog Breath",
+    "stratagem_type":"backpack",
+    "cooldown":"high",
+    "use_situation":"anti infantry",
+    "destroys_buildings":"no",
+    "image":"stratagems\\default_pack\\backpacks\\Guard Dog Dog Breath.png"
+    },
+    {
+    "warbond":"sof",
+    "stratagem_name":"Portable Hellbomb",
+    "stratagem_type":"backpack",
+    "cooldown":"medium",
+    "use_situation":"all",
+    "destroys_buildings":"yes",
+    "image":"stratagems\\default_pack\\backpacks\\Portable Hellbomb.png"
+    },
+    {
+    "warbond":"ul",
+    "stratagem_name":"SH-51 Directional Shield",
+    "stratagem_type":"backpack",
+    "cooldown":"medium",
+    "use_situation":"support",
+    "destroys_buildings":"no",
+    "image":"stratagems\\default_pack\\backpacks\\SH-51 Directional Shield.png"
+    },
+    {
+    "warbond":"default",
+    "stratagem_name":"Anti-Materiel Rifle",
+    "stratagem_type":"standalone weapon",
+    "cooldown":"medium",
+    "use_situation":"anti heavy",
+    "destroys_buildings":"no",
+    "image":"stratagems\\default_pack\\standalone_weapons\\Anti-Materiel Rifle.png"
+    },
+    {
+    "warbond":"default",
+    "stratagem_name":"Arc Thrower",
+    "stratagem_type":"standalone weapon",
+    "cooldown":"medium",
+    "use_situation":"anti infantry",
+    "destroys_buildings":"no",
+    "image":"stratagems\\default_pack\\standalone_weapons\\Arc Thrower.png"
+    },
+    {
+    "warbond":"default",
+    "stratagem_name":"Commando",
+    "stratagem_type":"standalone weapon",
+    "cooldown":"low",
+    "use_situation":"anti heavy",
+    "destroys_buildings":"yes",
+    "image":"stratagems\\default_pack\\standalone_weapons\\Commando.png"
+    },
+    {
+    "warbond":"default",
+    "stratagem_name":"Expendable Anti-Tank",
+    "stratagem_type":"standalone weapon",
+    "cooldown":"low",
+    "use_situation":"anti heavy",
+    "destroys_buildings":"yes",
+    "image":"stratagems\\default_pack\\standalone_weapons\\Expendable Anti-Tank.png"
+    },
+    {
+    "warbond":"default",
+    "stratagem_name":"Flamethrower",
+    "stratagem_type":"standalone weapon",
+    "cooldown":"medium",
+    "use_situation":"all",
+    "destroys_buildings":"no",
+    "image":"stratagems\\default_pack\\standalone_weapons\\Flamethrower.png"
+    },
+    {
+    "warbond":"default",
+    "stratagem_name":"Grenade Launcher",
+    "stratagem_type":"standalone weapon",
+    "cooldown":"medium",
+    "use_situation":"anti infantry",
+    "destroys_buildings":"yes",
+    "image":"stratagems\\default_pack\\standalone_weapons\\Grenade Launcher.png"
+    },
+    {
+    "warbond":"default",
+    "stratagem_name":"Heavy Machine Gun",
+    "stratagem_type":"standalone weapon",
+    "cooldown":"medium",
+    "use_situation":"anti heavy",
+    "destroys_buildings":"no",
+    "image":"stratagems\\default_pack\\standalone_weapons\\Heavy Machine Gun.png"
+    },
+    {
+    "warbond":"default",
+    "stratagem_name":"Laser Cannon",
+    "stratagem_type":"standalone weapon",
+    "cooldown":"medium",
+    "use_situation":"anti heavy",
+    "destroys_buildings":"no",
+    "image":"stratagems\\default_pack\\standalone_weapons\\Laser Cannon.png"
+    },
+    {
+    "warbond":"default",
+    "stratagem_name":"Machine Gun",
+    "stratagem_type":"standalone weapon",
+    "cooldown":"medium",
+    "use_situation":"all",
+    "destroys_buildings":"no",
+    "image":"stratagems\\default_pack\\standalone_weapons\\Machine Gun.png"
+    },
+    {
+    "warbond":"default",
+    "stratagem_name":"Quasar Cannon",
+    "stratagem_type":"standalone weapon",
+    "cooldown":"high",
+    "use_situation":"anti heavy",
+    "destroys_buildings":"yes",
+    "image":"stratagems\\default_pack\\standalone_weapons\\Quasar Cannon.png"
+    },
+    {
+    "warbond":"default",
+    "stratagem_name":"Railgun",
+    "stratagem_type":"standalone weapon",
+    "cooldown":"high",
+    "use_situation":"anti heavy",
+    "destroys_buildings":"no",
+    "image":"stratagems\\default_pack\\standalone_weapons\\Railgun.png"
+    },
+    {
+    "warbond":"default",
+    "stratagem_name":"Stalwart",
+    "stratagem_type":"standalone weapon",
+    "cooldown":"medium",
+    "use_situation":"anti infantry",
+    "destroys_buildings":"no",
+    "image":"stratagems\\default_pack\\standalone_weapons\\Stalwart.png"
+    },
+    {
+    "warbond":"ca",
+    "stratagem_name":"Sterilizer_Stratagem_Icon",
+    "stratagem_type":"standalone weapon",
+    "cooldown":"medium",
+    "use_situation":"anti infantry",
+    "destroys_buildings":"no",
+    "image":"stratagems\\ca\\standalone_weapons\\Sterilizer Stratagem Icon.png"
+    },
+    {
+    "warbond":"default",
+    "stratagem_name":"Autocannon",
+    "stratagem_type":"weapons_w_backpack",
+    "cooldown":"high",
+    "use_situation":"anti heavy",
+    "destroys_buildings":"yes",
+    "image":"stratagems\\default\\weapons_w_backpack\\Autocannon.png"
+    },
+    {
+    "warbond":"default",
+    "stratagem_name":"Recoilless Rifle",
+    "stratagem_type":"weapons_w_backpack",
+    "cooldown":"high",
+    "use_situation":"anti heavy",
+    "destroys_buildings":"yes",
+    "image":"stratagems\\default\\weapons_w_backpack\\Recoilless Rifle.png"
+    },
+    {
+    "warbond":"default",
+    "stratagem_name":"RL-77 Airburst Rocket Launcher",
+    "stratagem_type":"weapons_w_backpack",
+    "cooldown":"high",
+    "use_situation":"anti infantry",
+    "destroys_buildings":"yes",
+    "image":"stratagems\\default\\weapons_w_backpack\\RL-77 Airburst Rocket Launcher.png"
+    },
+    {
+    "warbond":"default",
+    "stratagem_name":"Spear",
+    "stratagem_type":"weapons_w_backpack",
+    "cooldown":"high",
+    "use_situation":"anti heavy",
+    "destroys_buildings":"yes",
+    "image":"stratagems\\default\\weapons_w_backpack\\Spear.png"
+    },
+    {
+    "warbond":"default",
+    "stratagem_name":"StA-X3 W.A.S.P. Launcher",
+    "stratagem_type":"weapons_w_backpack",
+    "cooldown":"high",
+    "use_situation":"anti heavy",
+    "destroys_buildings":"yes",
+    "image":"stratagems\\default\\weapons_w_backpack\\StA-X3 W.A.S.P. Launcher.png"
+    }
+]

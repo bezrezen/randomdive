@@ -1,0 +1,19 @@
+[
+    {
+    "warbond":"default",
+    "weapon_name":"AR-23 Liberator",
+    "weapon_type":"primary",
+    "fire_rate":"medium",
+    "use_situation":"anti infantry",
+    "image":"weapons\\primary\\default_pack\\AR-23 Liberator.png"    
+    },
+    {
+    "warbond":"default",
+    "weapon_name":"AR-23P Liberator Penetrator",
+    "weapon_type":"primary",
+    "fire_rate":"medium",
+    "use_situation":"anti infantry",
+    "image":"weapons\\primary\\default_pack\\AR-23P Liberator Penetrator.png"    
+    },
+
+]
